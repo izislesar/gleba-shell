@@ -1,0 +1,13 @@
+{
+  "UserPromptSubmit": [
+    {
+      "hooks": [
+        {
+          "type": "command",
+          "command": "bash \"/home/izislesar/dev/forks/gleba-shell/.codex/vexp-hint.sh\"",
+          "timeout": 5
+        }
+      ]
+    }
+  ]
+}
